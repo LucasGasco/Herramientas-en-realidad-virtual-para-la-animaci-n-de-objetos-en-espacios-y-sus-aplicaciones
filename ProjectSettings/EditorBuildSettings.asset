@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/TFG/SpatialAnchor.unity
+    guid: 1db179c458352bf46beb307fd047d589
+  - enabled: 1
+    path: Assets/TFG/SelectivePassthrough.unity
+    guid: 0e7861142f653584586c707ede59072e
+  - enabled: 0
+    path: Assets/TFG/SpectatorMode.unity
+    guid: 48f290ede0df84ec8bd990c5f5026654
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: c656cebe8db2ce14dbed501b26d7ca04, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 5b942d88fca4586478cad64ccc571ef7, type: 2}
